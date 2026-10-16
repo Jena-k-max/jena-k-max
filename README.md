@@ -85,20 +85,6 @@ class Madhuri:
 
 ---
 
-## 🚀 Featured Projects
-
-> Replace these placeholders with your real projects. 2 to 4 strong projects beat a long list.
-
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **Project Name 1** | One line: the problem it solves and the result (e.g. "Predicts X with 92% accuracy") | Python, scikit-learn | [Code](https://github.com/madhuri/project1) · [Demo](#) |
-| **Project Name 2** | One line on what it does and who it's for | MERN | [Code](https://github.com/madhuri/project2) · [Demo](#) |
-| **Project Name 3** | One line on what it does | Python, Networking | [Code](https://github.com/madhuri/project3) |
-
-**Tip:** pin your best 4 to 6 repos on your profile, each with a clear README, screenshots, and setup steps.
-
----
-
 ## 🗺️ Learning Roadmap
 
 ```
@@ -111,15 +97,6 @@ class Madhuri:
  Cloud Computing        Intro to AI              Internship search          Research Papers
  Maths I-III            MERN Stack                                          Internships → Full-time
 ```
-
----
-
-## 🎯 What I'm Looking For
-
-- **Roles:** ML / AI Intern, Data Science Intern, Software Development Intern
-- **Interests:** applied machine learning, intelligent systems, networked/distributed applications
-- **Availability:** *(add your dates, e.g. "Summer 2027" or "Jan to Jun 2027")*
-- **Location:** Bangalore / Remote / Open to relocate *(edit as needed)*
 
 ---
 
